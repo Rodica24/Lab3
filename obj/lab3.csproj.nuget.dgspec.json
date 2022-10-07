@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rodica/Desktop/lab3/lab3.csproj": {}
+    "/home/rodica/Desktop/Lab3/lab3.csproj": {}
   },
   "projects": {
-    "/home/rodica/Desktop/lab3/lab3.csproj": {
+    "/home/rodica/Desktop/Lab3/lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodica/Desktop/lab3/lab3.csproj",
+        "projectUniqueName": "/home/rodica/Desktop/Lab3/lab3.csproj",
         "projectName": "lab3",
-        "projectPath": "/home/rodica/Desktop/lab3/lab3.csproj",
+        "projectPath": "/home/rodica/Desktop/Lab3/lab3.csproj",
         "packagesPath": "/home/rodica/.nuget/packages/",
-        "outputPath": "/home/rodica/Desktop/lab3/obj/",
+        "outputPath": "/home/rodica/Desktop/Lab3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rodica/.nuget/NuGet/NuGet.Config"
